@@ -2,7 +2,7 @@
 
 Meu nome é Camila Duarte e sou graduada em Publicidade. Atualmente, estou embarcando em uma emocionante jornada de transição para a área de Análise de Dados. 📊
 
-Concluí o Bootcamp de Análise de Dados na Soulcode Academy, onde adiquiri habilidades valiosas nessa área em crescimento.
+
 
 Como parte da trilha de transição para a Análise de Dados, tenho me dedicado ao aprendizado e domínio de diversas ferramentas e linguagens essenciais para o trabalho nessa área:
 
